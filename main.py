@@ -1,5 +1,4 @@
 #!/bin/env python
-import random
 import sys
 
 from weirdtales import WeirdTales
